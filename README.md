@@ -1,3 +1,5 @@
+Dataset and models: https://data.mendeley.com/preview/p5zskggvwx
+
 Development of the AI-assisted Thermal Hydraulic Analysis Method for Condensing Bubbles in Vertical Subcooled Flow Boiling
 
 Wen Zhou1, Shuichiro Miwa1*, Ryoma Tsujimura2, Thanh-Binh Nguyen2, Tomio Okawa2, Koji Okamoto1
